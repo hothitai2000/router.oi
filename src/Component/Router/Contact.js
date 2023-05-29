@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+class Contact extends Component {
+
+    render() {
+        return (
+            <div>Contact</div>
+        );
+    }
+}
+
+export default Contact;
+
+// export default function Contact(){
+//     return <div>Contact</div>
+// }
+
